@@ -114,7 +114,9 @@ body {
  */
 body {
   /* Task: Add a URL to an Unsplash image between the '' in the next line */
-  background-image: url('');
+  background-image: url('https://images.unsplash.com/photo-1508944509701-d6dc5aae4d82?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5d98808709022476ae65f5b39ed4c498&auto=format&fit=crop&w=1950&q=80');
   /* Only change the URL in the above line */
   background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
 }
